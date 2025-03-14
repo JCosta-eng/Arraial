@@ -21,9 +21,3 @@ A equipa irá trabalhar de forma colaborativa, desenvolvendo diferentes partes d
 4. Envie um **pull request**  
 
 💡 **Junte-se a nós e ajude a construir a melhor plataforma de gestão de eventos!** 🚀
-
-<<<<<<< HEAD
-##ADRGR##
-=======
-Eu concordo com o Bruno! 
->>>>>>> 77aa7282eb4637a10fc4780ed464bf7113af37cf
