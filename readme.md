@@ -21,3 +21,5 @@ A equipa irá trabalhar de forma colaborativa, desenvolvendo diferentes partes d
 4. Envie um **pull request**  
 
 💡 **Junte-se a nós e ajude a construir a melhor plataforma de gestão de eventos!** 🚀
+
+Eu concordo com o Bruno! 
