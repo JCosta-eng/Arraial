@@ -1,0 +1,51 @@
+IDEvento;NomeEvento;TipoEvento;Localizacao;Data;Cliente;Orcamento
+1001;Evento Desportivo;Casamento;Evora;23/06/2023;Sofia Almeida;32720
+1002;Festival de Jazz;Festival;Braga;01/07/2024;Sofia Almeida;12405
+1003;Encontro de Carros Classicos;Gala;Lisboa;30/06/2024;Pedro Rocha;24927
+1004;Retiro Espiritual;Seminario;Evora;03/03/2023;Sofia Almeida;8115
+1005;Concerto Solidario;Aniversario;Aveiro;13/08/2025;Pedro Rocha;13305
+1006;Feira de Artesanato;Casamento;Porto;24/06/2024;Joao Silva;29786
+1007;Maratona Cultural;Show;Porto;21/06/2023;Ana Costa;19351
+1008;Congresso Medico;Conferencia;Aveiro;31/02/2024;Joao Silva;6684
+1009;Feira de Vinhos;Aniversario;Braga;13/02/2023;Ana Costa;11715
+1010;Festa de Aniversario VIP;Casamento;Coimbra;11/11/2025;Rui Mendes;26032
+1011;Festival de Comida;Aniversario;Coimbra;15/01/2025;Beatriz Nunes;27250
+1012;Feira de Livros;Feira;Porto;18/10/2025;Pedro Rocha;13619
+1013;Palestra Motivacional;Gala;Evora;30/11/2024;Beatriz Nunes;37708
+1014;Evento Corporativo;Gala;Viseu;25/09/2024;Rui Mendes;32096
+1015;Festival de Cinema;Casamento;Porto;17/07/2025;Pedro Rocha;7248
+1016;Jantar Beneficente;Gala;Lisboa;02/04/2025;Beatriz Nunes;48524
+1017;Exposicao Automovel;Gala;Porto;16/05/2025;Pedro Rocha;38832
+1018;Convencao de Tecnologia;Conferencia;Viseu;05/12/2023;Ana Costa;24663
+1019;Festival de Humor;Casamento;Braga;06/04/2024;Ana Costa;10492
+1020;Summertime Festival;Seminario;Lisboa;15/04/2024;Rui Mendes;11638
+1021;Festival de Danca;Show;Viseu;21/06/2023;Joao Silva;19658
+1022;Forum de Sustentabilidade;Show;Porto;25/06/2023;Joao Silva;44082
+1023;Simposio Internacional;Aniversario;Coimbra;17/06/2023;Maria Santos;17159
+1024;Forum de Inovacao;Show;Evora;14/07/2025;Sofia Almeida;32118
+1025;Evento de Networking;Conferencia;Faro;18/07/2025;Sofia Almeida;18150
+1026;Festival Medieval;Feira;Braga;18/01/2025;Joao Silva;40825
+1027;Noite de Gala;Festival;Porto;15/09/2025;Beatriz Nunes;44335
+1028;Casamento dos Sonhos;Aniversario;Viseu;29/05/2025;Maria Santos;32063
+1029;Feira de Estagios;Aniversario;Faro;09/05/2025;Beatriz Nunes;27084
+1030;Show Pirotecnico;Seminario;Porto;26/04/2024;Carlos Oliveira;44714
+1031;Exposicao de Arte;Show;Faro;20/04/2025;Ana Costa;5018
+1032;Sarau Cultural;Seminario;Viseu;27/07/2024;Sofia Almeida;36377
+1033;Concurso de Talentos;Gala;Aveiro;22/11/2025;Pedro Rocha;45221
+1034;Semana da Moda;Festival;Lisboa;20/03/2023;Carlos Oliveira;27803
+1035;Festa de Reveillon;Festival;Aveiro;16/02/2023;Sofia Almeida;15464
+1036;Copa Empresarial;Gala;Coimbra;13/06/2025;Rui Mendes;34097
+1037;Rock in Rio;Seminario;Faro;12/12/2024;Joao Silva;29828
+1038;Workshop Fotografia;Show;Faro;17/06/2025;Sofia Almeida;7118
+1039;Festival de Teatro;Feira;Evora;28/05/2024;Joao Silva;31813
+1040;Tech Conference;Show;Viseu;07/08/2023;Joao Silva;44272
+1041;Festival de Blues;Casamento;Evora;25/02/2023;Sofia Almeida;41303
+1042;Encontro de Startups;Gala;Evora;19/07/2025;Ana Costa;5658
+1043;Evento de Yoga;Festival;Aveiro;20/07/2024;Carlos Oliveira;45170
+1044;Campeonato de E-Sports;Aniversario;Braga;22/04/2023;Pedro Rocha;30295
+1045;Caminhada pela Saude;Feira;Aveiro;02/04/2023;Ana Costa;18621
+1046;Feira do Imobiliario;Aniversario;Porto;06/07/2023;Ana Costa;48251
+1047;Feira do Empreendedor;Show;Faro;22/10/2024;Pedro Rocha;46940
+1048;Reuniao de Negocios;Festival;Lisboa;23/02/2023;Carlos Oliveira;28407
+1049;Conferencia de Marketing;Festival;Viseu;16/10/2024;Rui Mendes;5996
+1050;Festival Gastronomico;Show;Porto;19/09/2024;Rui Mendes;10440

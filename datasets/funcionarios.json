@@ -1,0 +1,282 @@
+[
+    {
+        "IDFuncionario":301,
+        "NomeFuncionario":"Luis Matos",
+        "Cargo":"Organizador",
+        "Salario":4156,
+        "DataContratacao":1610928000000
+    },
+    {
+        "IDFuncionario":302,
+        "NomeFuncionario":"Fernanda Lopes",
+        "Cargo":"Gestor",
+        "Salario":4100,
+        "DataContratacao":1671235200000
+    },
+    {
+        "IDFuncionario":303,
+        "NomeFuncionario":"Rita Campos",
+        "Cargo":"Assistente",
+        "Salario":3509,
+        "DataContratacao":1607126400000
+    },
+    {
+        "IDFuncionario":304,
+        "NomeFuncionario":"Antonio Ferreira",
+        "Cargo":"Coordenador",
+        "Salario":3494,
+        "DataContratacao":1591660800000
+    },
+    {
+        "IDFuncionario":305,
+        "NomeFuncionario":"Claudia Goncalves",
+        "Cargo":"Logistica",
+        "Salario":"Dois mil",
+        "DataContratacao":1634774400000
+    },
+    {
+        "IDFuncionario":306,
+        "NomeFuncionario":"Jorge Marques",
+        "Cargo":"Atendimento",
+        "Salario":4285,
+        "DataContratacao":1623628800000
+    },
+    {
+        "IDFuncionario":307,
+        "NomeFuncionario":"Tiago Fonseca",
+        "Cargo":"Tecnico de Som",
+        "Salario":3525,
+        "DataContratacao":1619913600000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":309,
+        "NomeFuncionario":"Andre Vieira",
+        "Cargo":"Tecnico de Iluminacao",
+        "Salario":4352,
+        "DataContratacao":1624924800000
+    },
+    {
+        "IDFuncionario":310,
+        "NomeFuncionario":"Vanessa Matos",
+        "Cargo":"Cozinheiro",
+        "Salario":1146,
+        "DataContratacao":1629417600000
+    },
+    {
+        "IDFuncionario":311,
+        "NomeFuncionario":"Carlos Pinto",
+        "Cargo":"Garcom",
+        "Salario":3408,
+        "DataContratacao":1628380800000
+    },
+    {
+        "IDFuncionario":312,
+        "NomeFuncionario":"Silvia Mendes",
+        "Cargo":"Fotografo",
+        "Salario":2435,
+        "DataContratacao":1637193600000
+    },
+    {
+        "IDFuncionario":313,
+        "NomeFuncionario":"Henrique Lopes",
+        "Cargo":"Cameraman",
+        "Salario":4754,
+        "DataContratacao":1645488000000
+    },
+    {
+        "IDFuncionario":314,
+        "NomeFuncionario":"Joana Silva",
+        "Cargo":"Motorista",
+        "Salario":3649,
+        "DataContratacao":1603238400000
+    },
+    {
+        "IDFuncionario":315,
+        "NomeFuncionario":"Francisco Neves",
+        "Cargo":"Designer",
+        "Salario":1727,
+        "DataContratacao":1650499200000
+    },
+    {
+        "IDFuncionario":305,
+        "NomeFuncionario":"Claudia Goncalves",
+        "Cargo":"Logistica",
+        "Salario":"Dois mil",
+        "DataContratacao":1634774400000
+    },
+    {
+        "IDFuncionario":303,
+        "NomeFuncionario":"Rita Campos",
+        "Cargo":"Assistente",
+        "Salario":3509,
+        "DataContratacao":1607126400000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":309,
+        "NomeFuncionario":"Andre Vieira",
+        "Cargo":"Tecnico de Iluminacao",
+        "Salario":4352,
+        "DataContratacao":1624924800000
+    },
+    {
+        "IDFuncionario":315,
+        "NomeFuncionario":"Francisco Neves",
+        "Cargo":"Designer",
+        "Salario":1727,
+        "DataContratacao":1650499200000
+    },
+    {
+        "IDFuncionario":311,
+        "NomeFuncionario":"Carlos Pinto",
+        "Cargo":"Garcom",
+        "Salario":3408,
+        "DataContratacao":1628380800000
+    },
+    {
+        "IDFuncionario":303,
+        "NomeFuncionario":"Rita Campos",
+        "Cargo":"Assistente",
+        "Salario":3509,
+        "DataContratacao":1607126400000
+    },
+    {
+        "IDFuncionario":313,
+        "NomeFuncionario":"Henrique Lopes",
+        "Cargo":"Cameraman",
+        "Salario":4754,
+        "DataContratacao":1645488000000
+    },
+    {
+        "IDFuncionario":309,
+        "NomeFuncionario":"Andre Vieira",
+        "Cargo":"Tecnico de Iluminacao",
+        "Salario":4352,
+        "DataContratacao":1624924800000
+    },
+    {
+        "IDFuncionario":312,
+        "NomeFuncionario":"Silvia Mendes",
+        "Cargo":"Fotografo",
+        "Salario":2435,
+        "DataContratacao":1637193600000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":314,
+        "NomeFuncionario":"Joana Silva",
+        "Cargo":"Motorista",
+        "Salario":3649,
+        "DataContratacao":1603238400000
+    },
+    {
+        "IDFuncionario":301,
+        "NomeFuncionario":"Luis Matos",
+        "Cargo":"Organizador",
+        "Salario":4156,
+        "DataContratacao":1610928000000
+    },
+    {
+        "IDFuncionario":303,
+        "NomeFuncionario":"Rita Campos",
+        "Cargo":"Assistente",
+        "Salario":3509,
+        "DataContratacao":1607126400000
+    },
+    {
+        "IDFuncionario":302,
+        "NomeFuncionario":"Fernanda Lopes",
+        "Cargo":"Gestor",
+        "Salario":4100,
+        "DataContratacao":1671235200000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":305,
+        "NomeFuncionario":"Claudia Goncalves",
+        "Cargo":"Logistica",
+        "Salario":"Dois mil",
+        "DataContratacao":1634774400000
+    },
+    {
+        "IDFuncionario":303,
+        "NomeFuncionario":"Rita Campos",
+        "Cargo":"Assistente",
+        "Salario":3509,
+        "DataContratacao":1607126400000
+    },
+    {
+        "IDFuncionario":307,
+        "NomeFuncionario":"Tiago Fonseca",
+        "Cargo":"Tecnico de Som",
+        "Salario":3525,
+        "DataContratacao":1619913600000
+    },
+    {
+        "IDFuncionario":311,
+        "NomeFuncionario":"Carlos Pinto",
+        "Cargo":"Garcom",
+        "Salario":3408,
+        "DataContratacao":1628380800000
+    },
+    {
+        "IDFuncionario":306,
+        "NomeFuncionario":"Jorge Marques",
+        "Cargo":"Atendimento",
+        "Salario":4285,
+        "DataContratacao":1623628800000
+    },
+    {
+        "IDFuncionario":308,
+        "NomeFuncionario":"Marta Ribeiro",
+        "Cargo":"Seguranca",
+        "Salario":4789,
+        "DataContratacao":1617667200000
+    },
+    {
+        "IDFuncionario":311,
+        "NomeFuncionario":"Carlos Pinto",
+        "Cargo":"Garcom",
+        "Salario":3408,
+        "DataContratacao":1628380800000
+    },
+    {
+        "IDFuncionario":315,
+        "NomeFuncionario":"Francisco Neves",
+        "Cargo":"Designer",
+        "Salario":1727,
+        "DataContratacao":1650499200000
+    }
+]
