@@ -22,6 +22,5 @@ A equipa irá trabalhar de forma colaborativa, desenvolvendo diferentes partes d
 
 💡 **Junte-se a nós e ajude a construir a melhor plataforma de gestão de eventos!** 🚀
 
-Eu concordo com o Bruno! 
-
-# O Jorge é um grande engenheiro técnico!!!!!!!! - BB
+#Eu concordo com o Bruno!
+#OYGG - Once you go Gangsta
